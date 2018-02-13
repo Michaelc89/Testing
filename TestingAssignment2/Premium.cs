@@ -2,10 +2,9 @@
 
 namespace TestingAssignment2
 {
-    public class Class1
+    public class Premium
     {
-        public class Premium
-        {
+       
             public double CalcPremium(int age, string gender)
             {
                 double premium;
@@ -35,7 +34,7 @@ namespace TestingAssignment2
 
                 return premium;
             }
-        }
+        
 
     }
 }
